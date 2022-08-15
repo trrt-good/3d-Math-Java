@@ -1,8 +1,4 @@
-package trrt.rendering3d.primitives;
-
-import java.io.Serializable;
-
-public class Quaternion implements Serializable
+public class Quaternion
 {
     private static final long serialVersionUID = 1;
 
