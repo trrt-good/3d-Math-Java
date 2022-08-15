@@ -1,7 +1,5 @@
 public class Quaternion
 {
-    private static final long serialVersionUID = 1;
-
     public static final Quaternion IDENTITY = new Quaternion(0, new Vector3(0, 0, 1));
 
     /** scalar part of the quaternion */
