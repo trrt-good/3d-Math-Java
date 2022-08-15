@@ -1,4 +1,3 @@
-package trrt.rendering3d.primitives;
 public class Matrix3x3 
 {
     //R means row and C means column. R2C3 would be second row third column.
