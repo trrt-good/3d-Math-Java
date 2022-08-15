@@ -1,4 +1,3 @@
-package trrt.rendering3d.primitives;
 /**
  * an object for representing 2d points or directions with 
  * double precision. 
