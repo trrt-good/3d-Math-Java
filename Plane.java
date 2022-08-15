@@ -1,4 +1,3 @@
-package trrt.rendering3d.primitives;
 public class Plane 
 {
     //just for reference if ever needed. 
